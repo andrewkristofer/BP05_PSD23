@@ -1,12 +1,13 @@
 <br/>
 <p align="center">
   <a href="https://github.com/andrewkristofer/BP05_PSD23">
+    <img src="icon.png" alt="Icon" width="80" height="80">
   </a>
 
   <h3 align="center">Password Encryptor</h3>
 
   <p align="center">
-    using AES/DES
+    With DES Algorithm
     <br/>
     <br/>
     <br/>
