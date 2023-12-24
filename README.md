@@ -33,7 +33,7 @@ Proses pengenkripsian ini dibagi pada berbagai tahap diantaranya adalah Key Gene
 
 ## Authors
 **Kelompok BP-05**
-- **Raihan Muhammad Ihsan** - _2206028232_ - [LoremIpsum](https://github.com/patuyyy/)
-- **Tjokorde Gde Agung Abel Putra** - _2206059736_ - [LoremIpsum](https://github.com/LoremIpsum/)
-- **Hafizyah Rayhan Zulikhram** - _2206029185_ - [LoremIpsum](https://github.com/HafizyahRayhan/)
+- **Raihan Muhammad Ihsan** - _2206028232_ - [patuyyy](https://github.com/patuyyy/)
+- **Tjokorde Gde Agung Abel Putra** - _2206059736_ - [Pathricc1234](https://github.com/Pathricc1234/)
+- **Hafizyah Rayhan Zulikhram** - _2206029185_ - [HafizyahRayhan](https://github.com/HafizyahRayhan/)
 - **Andrew Kristofer Jian** - _2206059673_ - [andrewkristofer](https://github.com/andrewkristofer/)
